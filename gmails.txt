@@ -1,0 +1,7 @@
+@relation class
+@attribute name
+@attribute dept{cse,cs,iot,ml}
+@attribute year{1,2,3,4}
+@data
+sirisha,cse,1
+sri,cs,2
